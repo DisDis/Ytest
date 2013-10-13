@@ -1,0 +1,22 @@
+.changed-field {
+	border-color: red;
+	outline: 1px solid red;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.presentation-screen {
+	outline: solid;
+	width: 300px;
+	height: 400px;
+}
+
+.presentation-navigation {
+	width: 270px;
+}
